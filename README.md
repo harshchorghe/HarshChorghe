@@ -1,5 +1,8 @@
 <!-- Banner -->
-<h1 align="center">Harsh Chorghe</h1>
+<div style="position: relative; text-align: center; padding: 20px 0;">
+  <h1 align="center">Harsh Chorghe</h1>
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; height: 30px; background: linear-gradient(45deg, #00C2FF, #8B00FF); animation: wave 4s ease-in-out infinite; z-index: 0; clip-path: polygon(0 50%, 25% 75%, 50% 50%, 75% 75%, 100% 50%, 100% 100%, 0 100%);"></div>
+</div>
 
 <!-- Typing animation -->
 <p align="center">
