@@ -43,8 +43,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshChorghe&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshChorghe&show_icons=true&theme=tokyonight&count_private=true&show=reviews,prs_merged,issues" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChorghe&theme=tokyonight" alt="streak" />
+  <img src="https://img.shields.io/badge/Total%20Commits-XXXX-blue?style=flat-square" alt="total commits" />
 </p>
 
 ---
