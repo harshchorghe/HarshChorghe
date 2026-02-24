@@ -1,62 +1,42 @@
-<!-- Animated Gradient Header -->
+<!-- Modern Waving Header - very reliable -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Harsh%20Chorghe&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Harsh%20Chorghe&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" alt="header banner" />
 </div>
 
-<!-- Typing Animation (fixed endpoint) -->
-<p align="center">
-  <a href="https://github.com/HarshChorghe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=00D4FF&center=true&vCenter=true&width=600&lines=🚀+Clean+UI+Enthusiast;⚡+Reliable+APIs+Architect;🔥+Fast+%26+Scalable+Systems;💻+Full+Stack+Developer;🌶️+Spicing+up+Recipe+Tadka+App" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Profile views -->
+<!-- Profile views counter - always works -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HarshChorghe&label=Profile+views&color=00D4FF&style=flat-square" alt="profile views" />
 </p>
 
----
-
-## 📍 About Me
-- 🔭 Based in **Mumbai, India**
-- 📧 **harshchorghe7@gmail.com**
-- 🛠️ Currently building: Portfolio v2 + **Recipe Tadka** (Flutter + Firebase)
-- 🌱 Learning: Advanced Flutter animations, Node.js scaling, MongoDB aggregation pipelines
-- ⚡ Fun fact: I turn spicy ideas into clean code 🌶️→💻
+<!-- Short intro with emoji flair -->
+<p align="center">
+  <strong>Full-Stack Developer</strong> • Mumbai, India<br>
+  Clean UI ⚡ Reliable APIs 🔥 Fast & Scalable Systems<br>
+  Currently building: <strong>Portfolio v2</strong> + <strong>Recipe Tadka App</strong> (Flutter + Firebase)
+</p>
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,firebase,mongodb,mysql,git,github,vscode" alt="skills" />
-</p>
-
-<!-- Alternative: if skillicons is too basic, you can use shields.io with logos -->
-<!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> ... -->
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshChorghe&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="trophies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,firebase,mongodb,mysql,git,github,vscode&perline=6" alt="tech stack icons" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
+<!-- Minimal stats card - basic params to reduce failure chance -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshChorghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,issues" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshChorghe&theme=tokyonight&hide_border=true" alt="streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshChorghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" width="48%" />
+  <!-- Activity graph - one of the most stable dynamic elements -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChorghe&theme=tokyo-night&hide_border=true" alt="contribution graph" width="85%" />
 </p>
 
-<!-- Optional: Add contribution graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChorghe&theme=tokyo-night&hide_border=true" alt="activity graph" width="85%" />
-</p>
+<!-- If the stats card above fails sometimes, you can comment it out and keep only the graph -->
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:harshchorghe7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
@@ -71,8 +51,9 @@
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;…but great UI needs no explanation. 😎
+✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+&nbsp;&nbsp;&nbsp;&nbsp;…but a clean UI speaks for itself. 😎🌶️
 
-<!-- Optional unique touch: mini now-playing or quote rotator if you want advanced -->
-<!-- Or add a visitor badge with animation from readme-design-kit if you explore more -->
+<!-- Optional: If you later want to try a currently-working fork for stats/streak, replace with: -->
+<!-- https://github-readme-stats-fast.vercel.app/api?username=HarshChorghe&...  (from pranesh-2005 fork) -->
+<!-- But test the URL first in your browser -->
