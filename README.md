@@ -12,7 +12,7 @@
 <p align="center">
   <strong>Full-Stack Developer</strong> • Mumbai, India<br>
   Clean UI ⚡ Reliable APIs 🔥 Fast & Scalable Systems<br>
-  Currently building: <strong>Portfolio v2</strong> + <strong>Recipe Tadka App</strong> (Flutter + Firebase)
+
 </p>
 
 ---
