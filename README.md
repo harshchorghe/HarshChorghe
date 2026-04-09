@@ -27,9 +27,9 @@
 ## 📊 GitHub Overview
 <!-- Minimal stats card - basic params to reduce failure chance -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshChorghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HarshChorghe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" width="48%" /> -->
   <!-- Activity graph - one of the most stable dynamic elements -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChorghe&theme=tokyo-night&hide_border=true" alt="contribution graph" width="85%" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshChorghe&theme=tokyo-night&hide_border=true" alt="contribution graph" width="85%" />
 </p>
 
 <!-- If the stats card above fails sometimes, you can comment it out and keep only the graph -->
